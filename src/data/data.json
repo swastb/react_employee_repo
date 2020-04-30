@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "age" : "30",
+      "username": "jdoe",
+      "email": "jdoe@my.biz",
+      "address": {
+        "street": "Gateway",
+        "suite": "Apt. 556",
+        "city": "New York",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-73.99662018",
+          "lng": "40.75080872"
+        }
+      },
+      "phone": "1-212-244-4415",
+      "website": "deo.org",
+      "company": {
+        "name": "Demo Site",
+        "catchPhrase": "Multi-layered UI Application",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Max Mular",
+      "age" : "33",
+      "username": "mlar",
+      "email": "mlar@my.biz",
+      "address": {
+        "street": "Gateway",
+        "suite": "Apt. 556",
+        "city": "New York",
+        "zipcode": "92998-3874",
+        "geo": {
+          "lat": "-73.99662018",
+          "lng": "40.75080872"
+        }
+      },
+      "phone": "1-212-244-4415",
+      "website": "deo.org",
+      "company": {
+        "name": "Demo Site",
+        "catchPhrase": "Multi-layered UI Application",
+        "bs": "harness real-time e-markets"
+      }
+    }
+  ]
